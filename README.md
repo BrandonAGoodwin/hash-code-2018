@@ -1,0 +1,1 @@
+# Hashcode 2018: synchronized Voids
